@@ -1,0 +1,20 @@
+button{
+    width: 200px;
+    height: 200px;
+}
+
+.real{
+    background-color: green;
+}
+
+.fake{
+    background-color: red;
+}
+
+.cont{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
